@@ -1,4 +1,4 @@
-
+%hola
 
   h=figure(1);
 imagesc(lon_ERA,lat_ERA,skt,'AlphaData',~isnan(skt),'AlphaDataMapping','none')
